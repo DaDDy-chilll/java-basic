@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] bm) {
-        int x = 20;
-        System.out.println("Variable value " + x);
+        int x = 10;
+        int y = 20;
+        int z = x + y;
+        System.out.println("Z Variable value " + z);
     }
 }
